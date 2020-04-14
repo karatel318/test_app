@@ -49,6 +49,11 @@ function createWindow() {
         
     })
 
+    globalShortcut.register('Ctrl+i', () => {
+        app.quit();
+        
+    })
+
 }
 
 
