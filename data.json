@@ -1,0 +1,27 @@
+[
+    {
+      "question":"Какая миссия у компании?",
+      "image": "https://image.flaticon.com/icons/svg/906/906794.svg",
+      "section":"Общие вопросы"
+    },
+    {
+      "question":"Какова глобальная цель компании?",
+      "image": "https://image.flaticon.com/icons/svg/906/906794.svg",
+      "section":"Общие вопросы"
+    },
+    {
+      "question":"Какая корпоративная культура в компании?",
+      "image": "https://image.flaticon.com/icons/svg/906/906794.svg",
+      "section":"Общие вопросы"
+    },
+    {
+      "question":"Какие у нас ценности?",
+      "image": "https://image.flaticon.com/icons/svg/906/906794.svg",
+      "section":"Общие вопросы"
+    },
+    {
+      "question":"Какие у нас принципы?",
+      "image": "https://image.flaticon.com/icons/svg/906/906794.svg",
+      "section":"Общие вопросы"
+    }
+  ]

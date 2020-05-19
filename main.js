@@ -9,7 +9,8 @@ function createWindow() {
         height: 600,
         icon: __dirname + '/img/starwars_PNG28.png',
         transparent: true,
-        frame: false
+        frame: false,
+        alwaysOnTop: true
        
        
     })
@@ -43,7 +44,7 @@ function createWindow() {
     })
 
     // win.webContents.openDevTools()
-    win.setPosition(1000, 350);
+    win.setPosition(700, 350);
     globalShortcut.register('Ctrl+o', () => {
         win.hide()
         
